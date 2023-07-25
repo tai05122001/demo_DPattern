@@ -1,4 +1,4 @@
-package com.example.demo_ds_pattern.model;
+package com.example.demo_ds_pattern.model.strategy;
 
 public class Category {
     private int id ;

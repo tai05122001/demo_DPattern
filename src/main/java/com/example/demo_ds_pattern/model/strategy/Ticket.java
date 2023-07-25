@@ -1,4 +1,4 @@
-package com.example.demo_ds_pattern.model;
+package com.example.demo_ds_pattern.model.strategy;
 
 import com.example.demo_ds_pattern.interfaces.IPromoteStrategy;
 

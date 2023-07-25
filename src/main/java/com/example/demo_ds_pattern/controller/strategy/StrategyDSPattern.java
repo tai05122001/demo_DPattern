@@ -1,10 +1,10 @@
-package com.example.demo_ds_pattern.controller;
+package com.example.demo_ds_pattern.controller.strategy;
 
 import com.example.demo_ds_pattern.controller.strategy.EightyDiscountStrategy;
 import com.example.demo_ds_pattern.controller.strategy.HalfDiscountStrategy;
 import com.example.demo_ds_pattern.controller.strategy.NoDiscountStrategy;
 import com.example.demo_ds_pattern.controller.strategy.QuarterDiscountStrategy;
-import com.example.demo_ds_pattern.model.Ticket;
+import com.example.demo_ds_pattern.model.strategy.Ticket;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,6 +1,8 @@
-package com.example.demo_ds_pattern.model;
+package com.example.demo_ds_pattern.model.strategy;
 
-import javax.xml.crypto.Data;
+import com.example.demo_ds_pattern.model.strategy.Category;
+import com.example.demo_ds_pattern.model.strategy.DataMgr;
+
 import java.util.List;
 
 public class Product {
